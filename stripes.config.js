@@ -6,7 +6,6 @@ module.exports = {
   },
   config: {
     reduxLog: true,
-    disableAuth: false
     // candidate logCategories: 'core,connect,redux,path,mpath,action,perm,xhr'
     // logPrefix
     // logTimestamp
