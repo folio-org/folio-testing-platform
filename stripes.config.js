@@ -1,6 +1,7 @@
 module.exports = {
   okapi: { 
-	'url':'http://localhost:9130', 
+	//'url':'http://localhost:9130', 
+	'url':'http://ec2-34-204-15-75.compute-1.amazonaws.com:9130',
 	// 'url':'http://folio-ci10.aws.indexdata.com:9130', 
 	'tenant':'diku' 
   },
