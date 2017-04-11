@@ -10,7 +10,7 @@
     "@folio/items": "*",
     "@folio/scan": "*",
     "@folio/stripes-core": "*",
-    "@folio/trivial": "*",
+    "@folio/trivial": "^0.0.2-test",
     "@folio/users": "*"
   }
 }
