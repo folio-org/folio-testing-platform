@@ -29,17 +29,6 @@
     react-router-dom "^4.0.0"
     uuid "^3.0.1"
 
-"@folio/stripes-components@^0.3.0":
-  version "0.3.0"
-  resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-components/-/stripes-components-0.3.0.tgz#125f6fae8419a91c22308e39c305f46034e4833c"
-  dependencies:
-    classnames "^2.2.5"
-    lodash "^4.17.4"
-    moment "^2.17.1"
-    moment-range "^3.0.3"
-    react "^15.3.2"
-    react-overlays "^0.6.12"
-
 "@folio/stripes-components@^0.5.0":
   version "0.5.0"
   resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-components/-/stripes-components-0.5.0.tgz#1dc31e99e0a16600346e2475cd86a0d25aa30cbb"
@@ -51,9 +40,9 @@
     react "^15.3.2"
     react-overlays "^0.6.12"
 
-"@folio/stripes-connect@^0.2.0":
-  version "0.2.0"
-  resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-connect/-/stripes-connect-0.2.0.tgz#c1574f07ae8e4129a03bf40826d131e57a35b68a"
+"@folio/stripes-connect@^0.3.0":
+  version "0.3.0"
+  resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-connect/-/stripes-connect-0.3.0.tgz#511eb93def4f042624991d20da66da55291122e1"
   dependencies:
     isomorphic-fetch "^2.2.1"
     lodash "^4.17.2"
@@ -66,11 +55,11 @@
     uuid "^3.0.1"
 
 "@folio/stripes-core@*":
-  version "0.4.0"
-  resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-core/-/stripes-core-0.4.0.tgz#d965eae90aa345870c9dd6f1e5ddd8a66105cf0c"
+  version "0.6.0"
+  resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-core/-/stripes-core-0.6.0.tgz#3d8912ce71e9d2219bf66a31a2c8b13d7b9d2414"
   dependencies:
-    "@folio/stripes-components" "^0.3.0"
-    "@folio/stripes-connect" "^0.2.0"
+    "@folio/stripes-components" "^0.5.0"
+    "@folio/stripes-connect" "^0.3.0"
     "@folio/stripes-loader" "^0.0.2"
     "@folio/stripes-logger" "^0.0.2"
     babel-core "^6.23.1"
@@ -127,7 +116,7 @@
   version "0.0.2"
   resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-logger/-/stripes-logger-0.0.2.tgz#7ca7bb45c6c3eea7c81f65abb93a45d1566b0ebb"
 
-"@folio/trivial@*":
+"@folio/trivial@^0.0.2-test":
   version "0.0.2-test"
   resolved "https://repository.folio.org/repository/npm-folio/@folio/trivial/-/trivial-0.0.2-test.tgz#33794a6d33e2b67f82c813d5a0b8fc829b6683d0"
 
@@ -4096,8 +4085,8 @@ reduce-function-call@^1.0.1:
     balanced-match "^0.4.2"
 
 redux-crud@^3.0.0:
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/redux-crud/-/redux-crud-3.0.4.tgz#cbd0e274454169bc781a2c6477abec79d0f62c60"
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/redux-crud/-/redux-crud-3.0.5.tgz#417d63a7a6e7e22a9079c8219fb7258ebcfe308f"
   dependencies:
     action-names "^0.3.2"
     invariant "^2.1.0"
