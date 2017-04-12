@@ -20,10 +20,12 @@ WORKDIR /usr/src/folio-testing-platform
 
 COPY LICENSE /usr/src/folio-testing-platform/LICENSE
 COPY package.json /usr/src/folio-testing-platform/package.json
-COPY stripes.config.js /usr/src/folio-testing-platform/package.json
+COPY stripes.config.js /usr/src/folio-testing-platform/stripes.config.js
+COPY docker-run.sh /usr/src/folio-testing-platform/docker-run.sh
 
+RUN yarn config set @folio:registry https://repository.folio.org/repository/npm-folio/
 RUN yarn install
-COPY docker-run.sh /usr/src/ui-testing/docker-run.sh
 
-#ENTRYPOINT ["./docker-run.sh"]
+EXPOSE 3000
+ENTRYPOINT ["./docker-run.sh"]
 
