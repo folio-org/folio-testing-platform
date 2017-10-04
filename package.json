@@ -4,13 +4,25 @@
     "build": "stripes build stripes.config.js",
     "stripes": "stripes",
     "start": "stripes dev stripes.config.js",
+    "postinstall": "node ./build-module-descriptors.js",
     "local": "f=stripes.config.js; test -f $f.local && f=$f.local; echo Using config $f; stripes dev $f"
   },
   "dependencies": {
-    "@folio/items": "*",
-    "@folio/scan": "*",
-    "@folio/stripes-core": "*",
-    "@folio/trivial": "^0.0.2-test",
-    "@folio/users": "*"
+    "@folio/trivial": "latest",
+    "@folio/users": "latest",
+    "@folio/instances": "latest",
+    "@folio/items": "latest",
+    "@folio/checkout": "latest",
+    "@folio/checkin": "latest",
+    "@folio/requests": "latest",
+    "@folio/organization": "latest",
+    "@folio/developer": "latest",
+    "@folio/circulation": "latest",
+    "@folio/plugin-markdown-editor": "latest",
+    "@folio/plugin-markdown-better": "latest",
+    "@folio/plugin-find-user": "latest",
+    "@folio/util-notes": "latest",
+    "@folio/stripes-core": "latest",
+    "@folio/stripes-components": "latest"
   }
 }
