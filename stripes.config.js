@@ -8,7 +8,7 @@ module.exports = {
   modules: {
     "@folio/trivial" : {},
     "@folio/users" : {},
-    "@folio/instances" : {},
+    "@folio/inventory" : {},
     "@folio/items" : {},
     "@folio/checkout" : {},
     "@folio/checkin" : {},
