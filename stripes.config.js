@@ -13,6 +13,7 @@ module.exports = {
     "@folio/checkout" : {},
     "@folio/checkin" : {},
     "@folio/requests" : {},
+    "@folio/search" : {},
     "@folio/organization" : {},
     "@folio/developer" : {},
     "@folio/circulation" : {},

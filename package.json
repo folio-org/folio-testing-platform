@@ -15,6 +15,7 @@
     "@folio/checkout": "latest",
     "@folio/checkin": "latest",
     "@folio/requests": "latest",
+    "@folio/search": "latest",
     "@folio/organization": "latest",
     "@folio/developer": "latest",
     "@folio/circulation": "latest",
