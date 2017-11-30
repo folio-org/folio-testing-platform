@@ -19,7 +19,6 @@ module.exports = {
     "@folio/circulation" : {},
     "@folio/plugin-markdown-editor" : {},
     "@folio/plugin-markdown-better" : {},
-    "@folio/plugin-find-user" : {},
-    "@folio/util-notes" : {}
+    "@folio/plugin-find-user" : {}
   }
 };

@@ -22,7 +22,6 @@
     "@folio/plugin-markdown-editor": "latest",
     "@folio/plugin-markdown-better": "latest",
     "@folio/plugin-find-user": "latest",
-    "@folio/util-notes": "latest",
     "@folio/stripes-core": "latest",
     "@folio/stripes-components": "latest"
   }
