@@ -8,7 +8,6 @@
     "local": "f=stripes.config.js; test -f $f.local && f=$f.local; echo Using config $f; stripes dev $f"
   },
   "dependencies": {
-    "@folio/trivial": "latest",
     "@folio/users": "latest",
     "@folio/inventory": "latest",
     "@folio/items": "latest",

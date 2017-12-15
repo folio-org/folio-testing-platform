@@ -6,7 +6,6 @@ module.exports = {
     showPerms: false
   },
   modules: {
-    "@folio/trivial" : {},
     "@folio/users" : {},
     "@folio/inventory" : {},
     "@folio/items" : {},
