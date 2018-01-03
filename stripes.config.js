@@ -19,5 +19,14 @@ module.exports = {
     "@folio/plugin-markdown-editor" : {},
     "@folio/plugin-markdown-better" : {},
     "@folio/plugin-find-user" : {}
-  }
+  },
+  branding: {
+    logo: {
+      src: './tenant-assets/opentown-libraries-logo.png',
+      alt: 'Opentown Libraries',
+    },
+    favicon: {
+      src: './tenant-assets/opentown-libraries-favicon.png',
+    },
+  },
 };
