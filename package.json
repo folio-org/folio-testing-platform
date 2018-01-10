@@ -17,6 +17,7 @@
     "@folio/search": "latest",
     "@folio/organization": "latest",
     "@folio/developer": "latest",
+    "@folio/eholdings": "latest",
     "@folio/circulation": "latest",
     "@folio/plugin-markdown-editor": "latest",
     "@folio/plugin-markdown-better": "latest",
