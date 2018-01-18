@@ -16,6 +16,7 @@ module.exports = {
     "@folio/organization" : {},
     "@folio/developer" : {},
     "@folio/circulation" : {},
+    "@folio/eholdings" : {},
     "@folio/plugin-markdown-editor" : {},
     "@folio/plugin-markdown-better" : {},
     "@folio/plugin-find-user" : {}
