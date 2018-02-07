@@ -19,8 +19,6 @@
     "@folio/developer": "latest",
     "@folio/circulation": "latest",
     "@folio/eholdings": "latest",
-    "@folio/plugin-markdown-editor": "latest",
-    "@folio/plugin-markdown-better": "latest",
     "@folio/plugin-find-user": "latest",
     "@folio/stripes-core": "latest",
     "@folio/stripes-components": "latest"
