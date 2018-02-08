@@ -22,5 +22,8 @@
     "@folio/plugin-find-user": "latest",
     "@folio/stripes-core": "latest",
     "@folio/stripes-components": "latest"
+  },
+  "resolutions": {
+    "**/uglify-es": "3.3.9"
   }
 }
