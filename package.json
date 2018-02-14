@@ -10,7 +10,6 @@
   "dependencies": {
     "@folio/users": "latest",
     "@folio/inventory": "latest",
-    "@folio/items": "latest",
     "@folio/checkout": "latest",
     "@folio/checkin": "latest",
     "@folio/requests": "latest",
