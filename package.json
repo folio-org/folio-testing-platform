@@ -10,19 +10,19 @@
     "local": "f=stripes.config.js; test -f $f.local && f=$f.local; echo Using config $f; stripescore dev $f"
   },
   "dependencies": {
-    "@folio/users": "latest",
-    "@folio/inventory": "latest",
-    "@folio/checkout": "latest",
-    "@folio/checkin": "latest",
-    "@folio/requests": "latest",
-    "@folio/search": "latest",
-    "@folio/organization": "latest",
-    "@folio/developer": "latest",
-    "@folio/circulation": "latest",
-    "@folio/eholdings": "latest",
-    "@folio/plugin-find-user": "latest",
-    "@folio/stripes-core": "latest",
-    "@folio/stripes-components": "latest"
+    "@folio/users": ">=0.0.0",
+    "@folio/inventory": ">=0.0.0",
+    "@folio/checkout": ">=0.0.0",
+    "@folio/checkin": ">=0.0.0",
+    "@folio/requests": ">=0.0.0",
+    "@folio/search": ">=0.0.0",
+    "@folio/organization": ">=0.0.0",
+    "@folio/developer": ">=0.0.0",
+    "@folio/circulation": ">=0.0.0",
+    "@folio/eholdings": ">=0.0.0",
+    "@folio/plugin-find-user": ">=0.0.0",
+    "@folio/stripes-core": ">=0.0.0",
+    "@folio/stripes-components": ">=0.0.0"
   },
   "resolutions": {
     "**/uglify-es": "3.3.9"
