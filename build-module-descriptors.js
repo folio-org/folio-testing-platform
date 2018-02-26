@@ -2,7 +2,7 @@ const fs = require('fs');
 const childProcess = require('child_process');
 
 const argv0 = process.argv[1];
-const indir = 'node_modules/@folio';
+const indir = fs.existsSync('node_modules/@folio') ? 'node_modules/@folio' : '../node_modules/@folio';
 const outdir = 'ModuleDescriptors';
 let strict = false;
 if (process.argv[2] === '--strict') {
