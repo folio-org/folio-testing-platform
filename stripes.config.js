@@ -17,6 +17,7 @@ module.exports = {
     "@folio/developer" : {},
     "@folio/circulation" : {},
     "@folio/eholdings" : {},
+    "@folio/vendors": {},
     "@folio/plugin-find-user" : {}
   },
   branding: {

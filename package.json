@@ -21,6 +21,7 @@
     "@folio/developer": ">=0.0.0",
     "@folio/circulation": ">=0.0.0",
     "@folio/eholdings": ">=0.0.0",
+    "@folio/vendors": ">=0.0.0",
     "@folio/plugin-find-user": ">=0.0.0",
     "@folio/stripes-core": ">=0.0.0",
     "@folio/stripes-components": ">=0.0.0"
