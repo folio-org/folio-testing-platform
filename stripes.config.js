@@ -18,6 +18,7 @@ module.exports = {
     "@folio/circulation" : {},
     "@folio/eholdings" : {},
     "@folio/vendors": {},
+    "@folio/finance": {},
     "@folio/plugin-find-user" : {}
   },
   branding: {
