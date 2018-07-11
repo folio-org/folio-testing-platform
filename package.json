@@ -3,7 +3,7 @@
   "version":"0.0.0",
   "license": "Apache-2.0",
   "scripts": {
-    "build": "export NODE_OPTIONS=\"--max-old-space-size=2048 $NODE_OPTIONS\"; stripescore build stripes.config.js",
+    "build": "export NODE_OPTIONS=\"--max-old-space-size=3096 $NODE_OPTIONS\"; stripescore build stripes.config.js",
     "stripes": "stripescore",
     "start": "stripescore dev stripes.config.js",
     "postinstall": "node ./build-module-descriptors.js",
