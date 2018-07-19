@@ -17,7 +17,6 @@
     "@folio/requests": ">=0.0.0",
     "@folio/search": ">=0.0.0",
     "@folio/organization": ">=0.0.0",
-    "@folio/calendar": ">=0.0.0",
     "@folio/developer": ">=0.0.0",
     "@folio/circulation": ">=0.0.0",
     "@folio/eholdings": ">=0.0.0",

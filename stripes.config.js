@@ -11,7 +11,6 @@ module.exports = {
     "@folio/checkout" : {},
     "@folio/checkin" : {},
     "@folio/requests" : {},
-    "@folio/calendar" : {},
     "@folio/search" : {},
     "@folio/organization" : {},
     "@folio/developer" : {},
