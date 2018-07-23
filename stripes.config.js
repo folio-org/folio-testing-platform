@@ -18,7 +18,8 @@ module.exports = {
     "@folio/eholdings" : {},
     "@folio/vendors": {},
     "@folio/finance": {},
-    "@folio/plugin-find-user" : {}
+    "@folio/plugin-find-user" : {},
+    "@folio/tags": {}
   },
   branding: {
     logo: {
