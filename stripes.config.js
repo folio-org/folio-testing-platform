@@ -19,7 +19,8 @@ module.exports = {
     "@folio/vendors": {},
     "@folio/finance": {},
     "@folio/plugin-find-user" : {},
-    "@folio/tags": {}
+    "@folio/tags": {},
+    "@folio/myprofile": {}
   },
   branding: {
     logo: {
