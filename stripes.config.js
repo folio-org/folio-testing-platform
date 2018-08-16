@@ -20,6 +20,7 @@ module.exports = {
     "@folio/vendors": {},
     "@folio/finance": {},
     "@folio/plugin-find-user" : {},
+    "@folio/plugin-find-instance" : {},
     "@folio/tags": {},
     "@folio/myprofile": {}
   },
