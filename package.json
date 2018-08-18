@@ -31,6 +31,7 @@
     "@folio/stripes-components": ">=0.0.0"
   },
   "resolutions": {
-    "**/uglify-es": "3.3.9"
+    "**/uglify-es": "3.3.9",
+    "react-bootstrap": "0.32.1"
   }
 }
