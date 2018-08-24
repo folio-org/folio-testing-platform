@@ -3,7 +3,7 @@
   "version":"0.0.0",
   "license": "Apache-2.0",
   "scripts": {
-    "build": "export NODE_OPTIONS=\"--max-old-space-size=3096 $NODE_OPTIONS\"; stripes build stripes.config.js -- languages da,de,en,es_ES,fr,hu,it_IT,pt_BR",
+    "build": "export NODE_OPTIONS=\"--max-old-space-size=3096 $NODE_OPTIONS\"; stripes build stripes.config.js --languages da,de,en,es_ES,fr,hu,it_IT,pt_BR",
     "stripes": "stripes",
     "start": "stripes serve stripes.config.js",
     "postinstall": "node ./build-module-descriptors.js",
