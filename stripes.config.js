@@ -22,7 +22,8 @@ module.exports = {
     "@folio/plugin-find-user" : {},
     "@folio/plugin-find-instance" : {},
     "@folio/tags": {},
-    "@folio/myprofile": {}
+    "@folio/myprofile": {},
+    "@folio/servicepoints": {}
   },
   branding: {
     logo: {
