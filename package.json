@@ -29,6 +29,7 @@
     "@folio/servicepoints": ">=0.0.0",
     "@folio/plugin-find-user": ">=0.0.0",
     "@folio/plugin-find-instance": ">=0.0.0",
+    "@folio/plugin-find-vendor": ">=0.0.0",
     "@folio/stripes-core": ">=0.0.0",
     "@folio/stripes-components": ">=0.0.0",
     "@folio/stripes-cli": "^1.2.0"
