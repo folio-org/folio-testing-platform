@@ -22,6 +22,7 @@ module.exports = {
     "@folio/finance": {},
     "@folio/plugin-find-user" : {},
     "@folio/plugin-find-instance" : {},
+    "@folio/plugin-find-vendor": {},
     "@folio/tags": {},
     "@folio/myprofile": {},
     "@folio/servicepoints": {}
