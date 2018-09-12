@@ -19,6 +19,7 @@ module.exports = {
     "@folio/orders": {},
     "@folio/vendors": {},
     "@folio/finance": {},
+    "@folio/calendar": {},
     "@folio/plugin-find-user" : {},
     "@folio/plugin-find-instance" : {},
     "@folio/plugin-find-vendor": {},

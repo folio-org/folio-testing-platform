@@ -14,6 +14,7 @@
     "@folio/inventory": ">=0.0.0",
     "@folio/checkout": ">=0.0.0",
     "@folio/checkin": ">=0.0.0",
+    "@folio/calendar": ">=0.0.0",
     "@folio/requests": ">=0.0.0",
     "@folio/search": ">=0.0.0",
     "@folio/organization": ">=0.0.0",
