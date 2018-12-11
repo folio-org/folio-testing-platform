@@ -1,4 +1,4 @@
-# NOTE: THIS REPOSITORY IS DEPRECATED (superceded by the https://github.com/folio-org/platform-complete/tree/snapshot)
+## NOTE: THIS REPOSITORY IS DEPRECATED (superceded by the https://github.com/folio-org/platform-complete/tree/snapshot)
 
 # FOLIO testing platform
 
