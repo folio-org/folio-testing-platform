@@ -1,3 +1,5 @@
+# NOTE: THIS REPOSITORY IS DEPRECATED (superceded by the https://github.com/folio-org/platform-complete/tree/snapshot)
+
 # FOLIO testing platform
 
 This is an example of a Stripes "platform". It consists simply of an
